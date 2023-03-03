@@ -1,0 +1,27 @@
+._icon-basket:before {
+  content: "\e900";
+}
+
+._icon-facebook:before {
+  content: "\e901";
+  color: #5c5c50;
+}
+
+._icon-instagram:before {
+  content: "\e902";
+  color: #5c5c50;
+}
+
+._icon-like:before {
+  content: "\e903";
+}
+
+._icon-search:before {
+  content: "\e904";
+}
+
+._icon-twitter:before {
+  content: "\e905";
+  color: #5c5c50;
+}
+/*# sourceMappingURL=icons.css.map */
